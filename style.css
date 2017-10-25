@@ -70,7 +70,7 @@ header{
 }
 .wrap{
 	position: relative;
-	left: 22.6939%;/*155px*/
+	padding-left: 22.6939%;/*155px*/
 	top:37.5%;
 }
 .picture{
@@ -104,7 +104,7 @@ header{
 }
 .wrap-enter{
 	position: relative;
-	left: 22.6939%;/*155px*/
+	padding-left: 22.6939%;/*155px*/
 	top:37.5%;
 }
 .box{
